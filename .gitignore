@@ -1,0 +1,29 @@
+# For Basics
+
+Thumbs.db
+.DS_Store
+
+# For Gradle
+
+.gradle
+build/
+out/
+
+# For IntelliJ IDEA
+
+/.idea
+!/.idea/codeStyleSettings.xml
+*.iml
+*.ipr
+*.iws
+
+# For Eclipse
+
+.project
+.settings
+.classpath
+.asscache
+classes/
+
+# For App
+logs/
