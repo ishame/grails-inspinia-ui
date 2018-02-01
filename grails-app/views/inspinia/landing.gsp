@@ -10,6 +10,7 @@
     <title>INSPINIA - Landing Page</title>
 
     <!-- Bootstrap core CSS -->
+    <asset:stylesheet src="webjars/bootstrap/3.3.7/css/bootstrap.min.css"/>
     <asset:stylesheet src="application.css"/>
 
     <!-- Animation CSS -->

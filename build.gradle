@@ -63,6 +63,8 @@ dependencies {
     testRuntime "org.seleniumhq.selenium:selenium-firefox-driver:3.6.0"
     testRuntime "org.seleniumhq.selenium:selenium-remote-driver:3.6.0"
     testRuntime "org.seleniumhq.selenium:selenium-api:3.6.0"
+    // https://mvnrepository.com/artifact/org.webjars/bootstrap
+    compile group: 'org.webjars', name: 'bootstrap', version: '3.3.7'
     // https://mvnrepository.com/artifact/org.webjars/font-awesome
     compile group: 'org.webjars', name: 'font-awesome', version: '4.7.0'
     // https://bintray.com/bertramlabs/asset-pipeline/asset-pipeline-grails

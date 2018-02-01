@@ -8,6 +8,7 @@
 
     <title>INSPINIA | jqGrid</title>
 
+    <asset:stylesheet src="webjars/bootstrap/3.3.7/css/bootstrap.min.css"/>
     <asset:stylesheet src="application.css"/>
     <asset:stylesheet src="webjars/font-awesome/4.7.0/css/font-awesome.css"/>
     <asset:stylesheet src="/plugins/jQueryUI/jquery-ui-1.10.4.custom.min.css" />

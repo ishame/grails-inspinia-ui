@@ -8,6 +8,7 @@
 
     <title>INSPINIA | Wizards</title>
 
+    <asset:stylesheet src="webjars/bootstrap/3.3.7/css/bootstrap.min.css"/>
     <asset:stylesheet src="application.css"/>
     <asset:stylesheet src="webjars/font-awesome/4.7.0/css/font-awesome.css"/>
     <asset:stylesheet src="/plugins/iCheck/custom.css" />
